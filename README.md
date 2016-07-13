@@ -1,4 +1,4 @@
 vlog
 ====
 
-一个多线程日志库，可单独在一个进程里供不同线程间单独使用，互不干涉。后续规则模块还没有完善。
+A simple c multi thread log library!
